@@ -64,7 +64,7 @@ https://github.com/HimajahnaviKanagala/Employee-Salary-Prediction
 - Fully responsive across devices  
 
 🔗 Live Demo:  
-https://himajahnavi.github.io/FWD--E-Commerce-Product-Showcase/  
+https://himajahnavikanagala.github.io/E-Commerce-Product-Showcase/  
 
 ---
 
