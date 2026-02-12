@@ -46,7 +46,7 @@ Git | GitHub | Postman | Jupyter Notebook | VS Code
 - Performed feature importance analysis & visualization  
 
 🔗 Repo:  
-https://github.com/Himajahnavi/Loan-Approval-Prediction  
+https://github.com/HimajahnaviKanagala/Loan-Approval-Prediction  
 
 ---
 
