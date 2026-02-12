@@ -1,7 +1,6 @@
 # Hi 👋 I'm Himajahnavi Kanagala
 
-🎓 MCA Graduate | 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast  
-📍 Andhra Pradesh, India  
+🎓 MCA Graduate | 💻 Full Stack Developer | 🤖 Machine Learning Enthusiast    
 
 ---
 
@@ -56,7 +55,7 @@ https://github.com/Himajahnavi/Loan-Approval-Prediction
 - Applied feature engineering & cross-validation for optimization  
 
 🔗 Repo:  
-https://github.com/Himajahnavi/Employee-Salary-Prediction  
+https://github.com/HimajahnaviKanagala/Employee-Salary-Prediction  
 
 ---
 
